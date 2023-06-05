@@ -1,0 +1,5 @@
+G09z511_NEW_V1.1:MCU0初版
+G09Z511_muc1_V1.1_tongxing:MCU1初版
+G09z511_NEW_V1.1:可以修改电流
+G09Z511_muc1_V1.2_tongxing:在V1.1基础上修改了
+G09z511_NEW_V1.3:3月1日最新一版
